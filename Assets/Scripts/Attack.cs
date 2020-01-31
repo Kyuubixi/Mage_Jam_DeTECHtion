@@ -1,4 +1,7 @@
-﻿using System.Collections;
+// It's one of the first scripts I wrote ever.
+// It takes care of attacking with our character.
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
